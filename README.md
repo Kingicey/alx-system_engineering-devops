@@ -1,1 +1,1 @@
-first readme
+Script that switches user
